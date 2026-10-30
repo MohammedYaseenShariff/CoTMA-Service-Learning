@@ -2,7 +2,7 @@
 
 
 ## Expected Functionalities
-- Cow Tracking 
+- Farm Livestock Tracking 
 	- Pregnancies
 	- Milk Production Duration, Volume
 	- History of Disease
@@ -17,9 +17,9 @@
 
 ### Required Pages
 1. Home Page
-1. Cow Tracking Page
+1. Livestock Tracking Page
 1. Worker Tracking Page
-1. Cow Profile View
+1. Livestock Profile View
 1. Worker Profile View
-1. Cow Addition, Worker Addition
-1. Cow Removal, Worker Removal
+1. Livestock Addition, Worker Addition
+1. Livestock Removal, Worker Removal
